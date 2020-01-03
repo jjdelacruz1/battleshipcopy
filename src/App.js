@@ -7,6 +7,7 @@ import PlayerTwo from './components/PlayerTwo'
 import Board2 from './components/Board2'
 import TurnDisplay from './components/TurnDisplay'
 
+
 //import * as firebase from 'firebase/app'
 import 'firebase/database'
 import { incrementUser } from './firebaseFunc'
